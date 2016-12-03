@@ -1,2 +1,2 @@
 # Inventory
-Very simple inventory program.
+A simple inventory program.
